@@ -10,7 +10,7 @@ That's what the Test Session Manager gem does for you: lets your tests specify t
 Add the "test_session_manager" gem to your Gemfile:
 
 ```ruby
-group :test
+group :test do
   gem 'test_session_manager'
 end
 ```
