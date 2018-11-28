@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    test_session_manager (1.0.0)
+    test_session_manager (1.0.1)
       rails (>= 4.0)
 
 GEM

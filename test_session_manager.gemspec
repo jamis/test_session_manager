@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name        = "test_session_manager"
   gem.authors     = ["Jamis Buck"]
   gem.email       = ["jamis@jamisbuck.org"]
-  gem.homepage    = "http://github.com/jamis/test-session-manager"
+  gem.homepage    = "https://github.com/jamis/test_session_manager"
   gem.summary     = "Inject session data into test requests"
   gem.description = "Allow tests for Rails applications to inject session data (including flash) into test requests"
   gem.license     = 'MIT'
