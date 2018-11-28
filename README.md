@@ -57,5 +57,5 @@ Then, use the `next_request` helper to set session and flash values in your test
 
 ## License
 
-BulkInsert is released under the MIT license (see MIT-LICENSE) by
+Test Session Manager is released under the MIT license (see MIT-LICENSE) by
 Jamis Buck (jamis@jamisbuck.org).
